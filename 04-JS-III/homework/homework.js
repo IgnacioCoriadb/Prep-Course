@@ -171,7 +171,7 @@ function diaDeLaSemana(numeroDeDia) {
     return "Es dia Laboral";
 
    }
- 
+
   
 } 
 
